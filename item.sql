@@ -1,0 +1,55 @@
+create table item (
+	id SERIAL PRIMARY KEY,
+	name VARCHAR(50),
+	price INT
+);
+insert into item (name, price) values ('Beer - Camerons Auburn', 5300);
+insert into item (name, price) values ('Veal - Bones', 2124);
+insert into item (name, price) values ('Corn Meal', 9091);
+insert into item (name, price) values ('Taro Root', 5673);
+insert into item (name, price) values ('Turkey - Breast, Smoked', 6066);
+insert into item (name, price) values ('Oil - Truffle, Black', 245);
+insert into item (name, price) values ('Wine - Domaine Boyar Royal', 1385);
+insert into item (name, price) values ('Napkin White', 7177);
+insert into item (name, price) values ('Maintenance Removal Charge', 5622);
+insert into item (name, price) values ('Cocoa Powder - Natural', 9100);
+insert into item (name, price) values ('Garlic Powder', 8856);
+insert into item (name, price) values ('Ginger - Pickled', 4023);
+insert into item (name, price) values ('Milk - Chocolate 250 Ml', 3907);
+insert into item (name, price) values ('Eggs - Extra Large', 1151);
+insert into item (name, price) values ('Longos - Grilled Veg Sandwiches', 4939);
+insert into item (name, price) values ('Cheese Cloth No 60', 6655);
+insert into item (name, price) values ('Tart Shells - Savory, 4', 1051);
+insert into item (name, price) values ('Soup - Campbells Asian Noodle', 6955);
+insert into item (name, price) values ('Apple - Royal Gala', 795);
+insert into item (name, price) values ('Fish - Base, Bouillion', 3136);
+insert into item (name, price) values ('Beef - Eye Of Round', 9889);
+insert into item (name, price) values ('Sauce Tomato Pouch', 1779);
+insert into item (name, price) values ('Seaweed Green Sheets', 7773);
+insert into item (name, price) values ('Lamb Rack - Ontario', 2601);
+insert into item (name, price) values ('Cookie - Oatmeal', 3114);
+insert into item (name, price) values ('Ginger - Crystalized', 9894);
+insert into item (name, price) values ('Figs', 8911);
+insert into item (name, price) values ('Munchies Honey Sweet Trail Mix', 6086);
+insert into item (name, price) values ('Nantucket - 518ml', 6989);
+insert into item (name, price) values ('Vegetable - Base', 6428);
+insert into item (name, price) values ('Beef - Rib Roast, Cap On', 2353);
+insert into item (name, price) values ('Pur Value', 1529);
+insert into item (name, price) values ('Bread - White Mini Epi', 8895);
+insert into item (name, price) values ('Artichoke - Bottom, Canned', 6925);
+insert into item (name, price) values ('Wine - White, Pinot Grigio', 9420);
+insert into item (name, price) values ('Bar Special K', 307);
+insert into item (name, price) values ('Longos - Grilled Veg Sandwiches', 6531);
+insert into item (name, price) values ('Neckerchief Blck', 9416);
+insert into item (name, price) values ('Pastry - Baked Scones - Mini', 7830);
+insert into item (name, price) values ('Cheese Cloth', 7592);
+insert into item (name, price) values ('Greens Mustard', 7949);
+insert into item (name, price) values ('Honey - Lavender', 9639);
+insert into item (name, price) values ('Blueberries - Frozen', 2804);
+insert into item (name, price) values ('Cocoa Powder - Dutched', 5115);
+insert into item (name, price) values ('Cactus Pads', 3217);
+insert into item (name, price) values ('Crab - Claws, Snow 16 - 24', 6812);
+insert into item (name, price) values ('Coffee Decaf Colombian', 8354);
+insert into item (name, price) values ('Cherries - Frozen', 5101);
+insert into item (name, price) values ('Fennel - Seeds', 9506);
+insert into item (name, price) values ('Tomato - Plum With Basil', 7988);
